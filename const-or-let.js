@@ -23,9 +23,9 @@ console.log(age); // 14
 // অবজেক্ট এর ভিতর প্রপার্টিগুলো কে এক্সেস ও রিএসাইন করা যাবে। 
 
 
-const actor ={
+const actor = {
     name: "Sahruk Khan",
-    phone: 01954152415
+    phone: 0,
 }
 
 actor.name = "Salman Khan";
